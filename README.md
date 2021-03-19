@@ -2,7 +2,11 @@
 Yerel bir restoran için geliştirdiğim tablet menü projesi.
 Mobile tablet menu automation panel I developed for a local restaurant.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cTTHQvQX6E0/0.jpg)](https://www.youtube.com/watch?v=cTTHQvQX6E0)
+DEMO VIDEO
+
+[![TANITIM VİDEOSU ANDROID](https://img.youtube.com/vi/cTTHQvQX6E0/0.jpg)](https://www.youtube.com/watch?v=cTTHQvQX6E0)
+
+[![TANITIM VİDEOSU PANEL](https://img.youtube.com/vi/yc1Ee9pYN_c/0.jpg)](https://www.youtube.com/watch?v=yc1Ee9pYN_c)
 
 
 <img src="https://github.com/MrNirva/TABMENU-PROJECT/blob/main/tab-menu-android-ss/1.jpg" align="left" height="500" width="250" >
